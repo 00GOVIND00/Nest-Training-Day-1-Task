@@ -1,0 +1,19 @@
+.navbar-brand img{
+    border-radius: 50%;
+    object-fit: cover;
+}
+.carousel-item img{
+    height: 1000px;
+    width: 100%;
+   object-fit: cover;
+   object-position: center;}
+   .container{
+    margin-top: 20px;
+   }
+
+   .card img{
+    width: 100%;
+   
+    object-fit: cover;
+   }
+  
