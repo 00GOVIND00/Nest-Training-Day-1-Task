@@ -1,0 +1,13 @@
+
+.navbar{
+    margin-bottom: 50px;
+
+}
+.navbar-brand img{
+    border-radius: 50%;
+    object-fit: cover;
+  
+}
+.bread-crumb{
+    margin-left: 50px;
+}
